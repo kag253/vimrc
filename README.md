@@ -1,7 +1,7 @@
 # vimrc
 Repo for the all important .vimrc file
 
-This .vimrc file uses vundle, nerdtree, ctrlp, and a solarized colorscheme
+This .vimrc file uses vundle, nerdtree, ctrlp, and a solarized colorscheme. 
 Once Vundle is set up, running ':PluginInstall' will install nerdtree and
 ctrlp. The solarized colorsheme needs to be installed on its own.
 
